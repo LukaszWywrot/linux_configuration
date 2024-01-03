@@ -8,6 +8,7 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 cp ./tmux/initial.tmux.conf ~/.tmux.conf
 tmux source ~/.tmux.conf
 
-# initial config
-cp ./tmux/initial.tmux.conf ~/.tmux.conf
+
+# final config
+cp ./tmux/final.tmux.conf ~/.tmux.conf
 tmux source ~/.tmux.conf
